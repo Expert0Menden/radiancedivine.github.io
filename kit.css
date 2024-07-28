@@ -1,0 +1,41 @@
+body {
+    padding: 0 30px;
+    font-size: 36px;
+    line-height: 22px;
+    font-family: "Courier";
+    color: #222222;
+  }
+
+header { 
+    padding: 0 30px;
+    font-size: 36px;
+    line-height: 22px;
+    font-family: "Courier";
+    color: #222222;
+}
+
+h1 {
+    font-size: 32px;
+    font-family: "Courier";
+}
+
+h2 {
+    font-size: 22px;
+    font-family: "Courier";
+}
+
+.avatar {
+    border-radius: 10px;
+}
+
+p {
+    padding: 0 30px;
+    font-size: 22px;
+    line-height: 22px;
+    font-family: "Courier";
+    color: #222222;
+}
+
+.avatar {
+    border-radius: 10px;
+}
